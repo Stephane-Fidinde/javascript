@@ -1,4 +1,4 @@
-const url = 'https://www.example.com';
+const url = 'https://www.exampl.com';
 const timeout = 10000; // temps d'attente maximal en millisecondes
 
 const startTime = Date.now(); // temps de départ
